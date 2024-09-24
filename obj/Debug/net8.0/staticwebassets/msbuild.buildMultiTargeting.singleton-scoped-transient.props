@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/singleton-scoped-transient.props" />
+</Project>
