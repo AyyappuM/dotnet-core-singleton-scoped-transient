@@ -1,6 +1,6 @@
 dotnet new web -lang "C#" -n singleton-scoped-transient
 
-curl http://localhost:5001
+curl http://localhost:5001/value
 
 ```
 Singleton instance: ced68728-b5cc-463e-8334-6b5ee4939cf1
